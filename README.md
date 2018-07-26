@@ -1,2 +1,2 @@
 # Common-scripts-function
-Some scripts / functions those I use almost daily
+Some scripts / functions those I use almost daily.

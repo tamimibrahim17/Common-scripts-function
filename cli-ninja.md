@@ -1,15 +1,15 @@
 ### Commands
 
-Sort folder by size in a directory
+* Sort folder by size in a directory
 ```du -sk * | sort -n``` 
 
 Create mysql user and grunt all prev..
 
-// create user
+* create user
 ```CREATE USER 'newuser'@'localhost' IDENTIFIED BY 'password';```
 
-// grant
+* grant
 ```GRANT ALL PRIVILEGES ON * . * TO 'newuser'@'localhost';```
 
-// reload
+* reload
 ```FLUSH PRIVILEGES;```
